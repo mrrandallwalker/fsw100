@@ -1,0 +1,36 @@
+h1{
+    color: darkgreen;
+    font-style: Georgia;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+
+.you{
+text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    
+}
+a:hover{
+    text-decoration: underline;
+
+}
+
+img{
+    float: left
+    
+    }
+    img{
+        width:auto;
+        text-align:center;
+        padding:20px;
+    }
+
+p{
+    text-indent: 3em;
+}
